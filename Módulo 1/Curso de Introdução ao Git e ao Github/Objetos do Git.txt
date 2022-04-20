@@ -1,0 +1,22 @@
+Algumas informações sobre significados de objetos do git
+
+SHA-1: Em criptografia, SHA-1 é uma função de dispersão criptográfica (ou função hash criptográfica) projetada pela Agência de Segurança Nacional dos Estados Unidos e é um Padrão Federal de Processamento de Informação dos Estados Unidos publicado pelo Instituto Nacional de Padrões e Tecnologia (NIST).[2]
+
+SHA-1 produz um valor de dispersão de 160 bits (20 bytes) conhecido como resumo da mensagem. Um valor de dispersão SHA-1 é normalmente tratado como um número hexadecimal de 40 dígitos.
+
+A sigla SHA significa "algoritmo de dispersão seguro" (secure hash algorithm em inglês).
+
+==============================Os três objetos do git=======================================
+
+Blobs: Este objeto armazena metadados do git, tais como o tipo do objeto, o tamanho
+da string, tamanho do arquivo, etc. O blob armazena sha1
+
+Tree: armazenam os blobs, também armazenam um nome de um arquivo. A árvore é responsável por
+montar toda a estrutura dos arquivos, a ordem de onde estão armazenados os arquivos. Árvores podem apontar para outras árvores ou para blobs. Árvores também possuem sha1 próprios
+
+Metadados: Os metadados são marcos ou pontos de referência que permitem circunscrever a informação sob todas as formas, pode se dizer resumos de informações sobre a forma ou conteúdo de uma fonte.
+* O prefixo “Meta” vem do grego e significa “além de”. Assim Metadados são informações que acrescem aos dados e que têm como objectivo informar-nos sobre eles para tornar mais fácil a sua organização.
+
+Commit: Os commits são objetos que apontam para uma árvore, também apontam para um parente próximo(versões anteriores do mesmo), apontam para um autor e também para uma determinada mensagem. Este objeto possui um carimbo de tempo, ou seja, as informações de data e hora de quando o mesmo foi criado. Estas mensagens servem para dizer o que significa os arquivos apontados pelos os commits. Os commits também possui sha1 de seus metadados, isso significa que qualquer alterão feita nos metadados apontados pelo o commit tem impacto no commit
+
+Git como sistema distribuido seguro: Uma vez que é práticamente impossível de se alterar um commit de tal forma que isso não tenham impacto em seu respectivo sha1, significa que caso um determinado arquivo esteja sendo mantido por várias pessoas, cada uma das pessoas possui uma versão confiável do arquivo pois caso haja qualquer alteração será possível notar pois o commit será alterado significando alguma modificação em algum dos metadados apontados pelo o commit.

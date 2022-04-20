@@ -1,0 +1,13 @@
+Comandos úteis para se utlizar no terminal do git
+
+git config --global --unset user.email
+git config --list
+git remote add origin(origin é um nome escolhido arbitrariamente)
+git push origin(este é o nome que sinonimo para apontar ao link url) master
+git clone (para clonar repositórios de outros usuários)
+git config --list user.name 
+git config --global user.name "Fulano de Tal"
+git config --global user.email fulanodetal@exemplo.br
+
+Primeiros passos no github
+

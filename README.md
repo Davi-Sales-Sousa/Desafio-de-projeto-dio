@@ -1,2 +1,2 @@
-# Desafio-de-projeto-dio
-Este é o meu primeiro repositório relativo aos arquivos do bootcamp da dio
+# Desafio-de-projeto-dio :smile:
+Este é o meu primeiro repositório relativo aos arquivos do bootcamp da dio. Aqui estarão a maioria dos arquivos relacionados ao meu aprendizado no curso, como anotações, códigos, exercícios resolvidos, certificados obtidos, etc...

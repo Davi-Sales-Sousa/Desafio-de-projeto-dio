@@ -1,0 +1,11 @@
+Novos comandos do git
+
+git status
+git add
+git restore --staged  <file>
+
+Algumas anotações relevantes
+
+Quando executamos o comando "git add ou git add *" estamos movendo o status dos arquivos que estão com status de Untracked ou Unmodidied para Staged, isso faz com que os arquivos estejam preparados para entrar em cena, entrar no palco, ou seja, estejam prontos para serem commitados, estejam prontos para que seja aplicado o comando "git commit sobre eles". Neste ponto o status dos arquivos muda novamente, volta para o status de Unmodified. Este é um ciclo constante para os arquivos que estão em um diretório/repositório gerenciado pelo o git.
+
+No ambiente de desenvolvimento os arquivos que ainda não sofreram mudança de status pelo o comando "git add" estão no diretório de trabalho ou "working directory", a partir do momento que o comando "git add" é executado esses arquivos passam para o "diretório" de staged, momento em que estão prontos para serem commitados e desta forma serem passados para o repositório local armazenados na máquina do usuário. 

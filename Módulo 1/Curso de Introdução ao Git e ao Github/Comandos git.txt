@@ -1,0 +1,3 @@
+echo 'conteudo' | git hash-object --stdin
+
+echo -e 'conteudo' | openss1 sha1

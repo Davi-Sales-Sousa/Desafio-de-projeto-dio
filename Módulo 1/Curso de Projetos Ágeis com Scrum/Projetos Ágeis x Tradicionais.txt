@@ -1,0 +1,7 @@
+Para qualquer coisa que queremos desenvolver hoje em dia precisamos fazer um projeto. Em meio ao processo do projeto, devemos ficar atentos a algumas especificações, como os prazos, custos, qualidade e satisfação do cliente, pois o não cumprimento destes pode nos trazer alguns problemas mais à frente. Por isso, cada vez mais damos a devida importância ao gerenciamento de projetos e em como a utilização de metodologias podem nos ajudar a gerir melhor tudo isso. Atualmente temos dois tipos de metodologias que são bem conhecidas, principalmente se tratando de desenvolvimento de software: as metodologias tradicional e ágil.
+
+A metodologia tradicional tem etapas bem definidas sendo o planejamento do projeto, uma estimativa em termos de prazo e orçamento, a execução e entrega no final. Por exemplo, em um desenvolvimento de software financeiro.
+
+Apesar do nome, a palavra ágil aqui não significa agilidade e sim o poder de “quebrar” o projeto em partes menores. Ao contrário da metodologia tradicional que você faz apenas uma entrega já com o projeto final, aqui você faz entregas constantemente até entregar todo o projeto.
+
+A preocupação com custo, qualidade e prazos são as mesmas da metodologia tradicional, porém você consegue controlar e gerenciar as mudanças que provavelmente irão aparecer no decorrer do projeto. Na metodologia ágil o foco principal é a entrega de valor ao cliente, por isso é priorizado a entrega à documentação, por exemplo. Mas isso não quer dizer que não é documentado, não planejado, assim como na tradicional. 

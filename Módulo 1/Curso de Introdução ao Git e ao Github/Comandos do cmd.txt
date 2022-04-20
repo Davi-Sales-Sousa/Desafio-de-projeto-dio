@@ -1,0 +1,47 @@
+Lista de comandos do terminal
+
+comandos para Windows
+dir - lista todos os diretórios que estão dentro do diretório que o usuário está situado
+
+cd - comando que serve para navegar entre diretórios específicados
+(cd /) - base de um diretório
+(cd ..) retroceder para um diretório anterior
+
+cls - serve para limpar o terminal
+
+TAB - (Atalho para autocompletar nomes de diretórios, recomendável usar em nomes de diretórios grandes para evitar erros humanos
+       Caso hajam várias pastas com nomes similares é recomendável ser o mais específico possível ao se fornecer fragmentos do nome
+       do diretório).
+
+mkdir - comando para criar uma pasta
+
+echo - comando que serve para devolver(escrever na tela) um texto que o usuário digite.
+
+> - este comando representa um redirecionador de fluxo e serve para redirecionar a saída de um determinado comando para outro lugar. Exemplo: Redirecionar
+   texto digitado no terminal para um determinado arquivo de texto.
+
+del - este comando serve para deletar arquivos, caso seja passado o nome de um diretório o comando deleta todos os arquivos que estão dentro deste diretório
+
+seta para cima - serve para navegar entre comandos utilizados anteriormente
+
+\rmdir - comando que serve para remover um determinado diretório que o usuário passar como argumento.
+(Estas duas flags podem ser usadas junto ao comando "\S" e "\Q")
+
+Comandos para Linux(Unix)
+ls - lista todos os diretórios que estão dentro do diretório que o usuário está situado
+
+cd - comando que serve para navegar entre diretórios específicados
+(cd /) - base de um diretório
+(cd ..) retroceder para um diretório anterior
+
+clear - serve para limpar o terminal(atalho de função CTRL + L)
+
+mkdir - comando para criar uma pasta
+
+echo - comando que serve para devolver(escrever na tela) um texto que o usuário digite.
+
+> - este comando representa um redirecionador de fluxo e serve para redirecionar a saída de um determinado comando para outro lugar. Exemplo: Redirecionar
+   texto digitado no terminal para um determinado arquivo de texto.
+
+rm - este comando serve para remover um determinado diretório passado como argumento pelo o usuário
+(A flag -rf pode ser usada em conjunto e serve para remover quaisquer diretório que estejam dentro de outros diretórios que por ventura possam estar dentro do diretório que se deseja excluir)
