@@ -1,0 +1,21 @@
+Termos-chave(que eu não sabia muito bem sobre)
+
+cache - arquivos salvos no navegados por alguns sites para que o carregamento dos mesmos se torne mais rápido.
+
+crack - uma forma de introduzir uma falsa licensa a um determinado software para que se possa utliza-lo sem pagar.
+
+HTML - é um linguagem de marcação e não de programação
+
+keylogger - É um software malicioso que se instala no computador com o objetivo de capturar tudo o que o usuário digita no teclado. Muito perigoso pois pode acabar salvando senhas e nomes de usuários de sites de sites de bancos, seu e-mail pessoal e etc..
+
+phishing - É um golpe na internet que normalmente acontece no e-mail onde golpistas mandam falsos e-mails para o usuário tentando obter dados do mesmo. Muitas vezes o e-mail é tão bem feito que muitos acabam por cair no golpe.
+
+cookies - são alguns arquivos de registro de atividades que muitos sites costumam deixar salvo no computador do usuário para que sejam usados posteriormente pelos os algoritmos do próprio site ou de outros sites para direcionar anúncios. Estes cookies tem o objetivo de mapear os gostos do usuário.
+
+firewall - Em informática, um firewall é um dispositivo de uma rede de computadores, na forma de um programa ou de equipamento físico, que tem por objetivo aplicar uma política de segurança a um determinado ponto da rede, geralmente associados a redes TCP/IP.
+
+IP - Um Endereço de Protocolo da Internet, do inglês Internet Protocol address, é um rótulo numérico atribuído a cada dispositivo conectado a uma rede de computadores que utiliza o Protocolo de Internet para comunicação.
+
+
+
+

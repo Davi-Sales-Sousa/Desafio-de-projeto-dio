@@ -1,0 +1,87 @@
+Padding e Margin modificação
+
+Forma 1
+.post {
+padding: 10px 5px; -> 10px um valor numérico que muda a parte superior e inferior - eixo y
+                   -> 5px um valor numérico que muda a parte esquerda e direita - eixo x
+}
+
+Forma 2
+
+.post{
+
+padding: 15px 10px 5px 0; -> 15px muda a parte superior(y+)
+                          -> 10px muda a parte direita (x+)
+                          -> 5px muda a parte inferior (-y)
+                          -> 0 muda a parte esquerda (-x) (quando temos um valor 0 não precisamos específicar uma unidade.
+}
+
+Forma 3
+
+.post{
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 0;
+}
+
+Background
+
+.post{
+background-color: green; - muda a cor de fundo
+background-image: url("bg.png"); - colocar uma imagem
+background-position: top; define a posição do top
+}
+
+Formas de mudar a cor de fundo
+
+.post{
+background-color: green; - colocar a cor utilizando o seu nome em inglês.
+background-color: #008800; - colocar a cor utilizando o respectivo código hexadecimal
+backgrund: #00800 ou green - coloca a cor utilizando um atalho de nome
+}
+
+Border
+
+Pode ter vários valores:
+
+Largura: pixels, centímetros, milímetros...
+Cor: blue, #0000ff...
+Estilo: sólida, pontilhada, tracejada...
+
+.post [
+border: 3px solid blue;
+border-top: 2px dotted green;
+border-right: 4px dashed pink;
+}
+
+Separação da Estilização de cada borda
+
+.post{
+border-top: 2px dotted green;
+border-right: 4px dashed pink;
+border-bottom: 1px solid purple;
+border-left: 4px dotted cyan;
+}
+
+Estilização de cada borda
+.post{
+border-width: 3px;
+border-color: #505050;
+border-style: solid;
+}
+
+Estilização de cada lado da borda
+
+.post{
+border-top-width: 3px;
+border-top-color: blue;
+border-top-style: solid;
+}
+
+Border radius - permite arredondar os cantos da borda
+
+border-radius: 10px;
+border-radius: 50%;
+border-radius: 10% 20%;
+border-radius: 10% 20% 15% 22%;

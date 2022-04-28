@@ -1,0 +1,11 @@
+Introdução ao CSS3
+
+Box Model
+
+Margin: São os espaçamentos entre elementos.
+
+Border: Elas circundam o padding e o conteúdo e podemos alterar sua aparência, como largura e cor.
+
+padding:É o espaçamento entre a borda e o conteúdo.
+
+content: É o respectivo conteúdo da sua página

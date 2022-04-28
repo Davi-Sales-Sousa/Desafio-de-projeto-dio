@@ -1,0 +1,6 @@
+Como inserir imagens em seu site:
+
+Usamos o elemento <img>
+
+<img src="img/avatar.jpg">
+<img alt="MinhaFoto">

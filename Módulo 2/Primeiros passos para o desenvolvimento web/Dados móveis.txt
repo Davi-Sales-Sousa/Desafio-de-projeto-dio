@@ -1,0 +1,18 @@
+Dados móveis
+
+SMS: O celula troca, naturalmente, alguns bits com as torres de comunicação e esta comunição é aproveitada pelas operadoras de telefonia para enviar as mensagens requeridas pelo o usuário. O curso para uma operadora de telefonia móvel enviar um SMS é nulo.
+
+MMS: Transmissão de mensagens multimídia(áudio, vídeo) por meio de uma espécie de conexão de dados primitiva.
+
+WI-Fi
+
+Wi-Fi é uma tecnologia de rede sem fio que conta com diferentes padrões até hoje. Todos são compatíveis entre si, o que permite a dispositivos com Wi-Fi 5 se conectarem a aparelhos com Wi-Fi 4, por exemplo.
+
+Segurança
+
+- WEP: chaves de 64 bits e de 128 bits
+- WPA: chave trocada periodicamente
+- WPA2: (AES) (802.1i) (+ segurança e +processamento)
+
+Bluetooth
+Bluetooth é uma especificação de rede sem fio de âmbito pessoal (Wireless personal area networks – PANs) consideradas do tipo PAN ou mesmo WPAN. O Bluetooth provê uma maneira de conectar e trocar informações entre dispositivos como telefones celulares, notebooks, computadores, impressoras, câmeras digitais e consoles de videogames digitais através de uma frequência de rádio de curto alcance globalmente licenciada e segura. É uma conexão que não depende da internet e é feita ponto a ponto

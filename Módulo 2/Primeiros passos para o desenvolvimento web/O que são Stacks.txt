@@ -1,0 +1,41 @@
+Stacks
+
+- Pilhas de tecnologia
+
+- Conjunto de softwares necessários e suficientes para executar um aplicativo/programa.
+
+Na maioria das vezes inclui as linguagens de programação disponíveis em determinada empresa em que o trabalhador esteja atuando.
+Também inclui os ambientes e ferramentas de interação com o aplicativo e com os softwares.
+
+Uma vez que cada empresa possui o seu determinado conjunto de ferramentas, significa que elas possuem pontos fortes e fracos, ou seja,
+tecnologias que dominam melhor e outras que não.
+
+Importância
+
+- Os líderes de projetos precisam das informações das equipes de desenvolvimento.
+
+- Os desenvolvedores precisam saber as limitações e capacidades das ferramentas e ambientes que têm disponíveis
+
+- Sistemas, banco de dados, linguagens de programação, protocolos de comunicação
+
+- Estratégias de negócios
+
+- Maturidade
+
+- Contratações, planos de mitigações de riscos, aumento da capacidade, uso de dados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

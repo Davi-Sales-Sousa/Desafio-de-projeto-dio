@@ -1,0 +1,26 @@
+O que é o Browser: Para ver um site, é preciso um programa que interprete as linguagens de programação (LP) e as transforme em algo compreensível por um ser humano. Este é o trabalho de um browser.
+O browser sabe identificar várias LP, linguagens de marcação e conteúdo multimedia. Hoje, os browsers fazem muito mais que isso> existem plug-ins, ou add-ons, que ajudam na navegação.
+
+Página estática x dinâmica: As páginas estáticas são aquelas em que o usuário somente pode clicar em algo especifico apenas para ser redirecionador para algum lugar sem quaisquer outras interações com o site.
+
+Na página dinâmica é diferente pois esta fornece vários tipos de contéudos independentes que podem estar acontecendo simultaneamente na página em questão, tais como: vídeos sendo reproduzidos, anúncios sendo exibidos, botões interativos, etc..
+
+Exercício final:
+
+Entre no site: http://archive.org/web
+Pesquise como eram antigamente os sites mais famosos de hoje em dia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

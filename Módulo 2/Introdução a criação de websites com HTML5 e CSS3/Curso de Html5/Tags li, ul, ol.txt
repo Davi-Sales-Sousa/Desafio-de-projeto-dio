@@ -1,0 +1,7 @@
+Tags li, ul e ol
+
+<ul> representa uma lista em que a ordem dos itens não é importante.
+
+<ol> representa uma lista em que a ordem dos itens é importante
+
+<li> representa um elemento da lista

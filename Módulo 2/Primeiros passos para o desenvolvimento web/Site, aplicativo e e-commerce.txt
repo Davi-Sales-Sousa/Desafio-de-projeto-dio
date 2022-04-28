@@ -1,0 +1,29 @@
+Site, aplicativo e e-commerce
+
+Site: É um conjunto de páginas web, isto é, de hipertextos acessíveis geralmente pelo protocolo HTTP ou pelo HTTPS na internet. O conjunto de todos os sítios públicos existentes compõe a World Wide Web. Possui diversos propósitos e podem ser feitas com diversas linguagens de programação.
+
+Aplicativo: É um software que é executado no navegador. Um aplicativo de celular, muitas vezes, nada mais é do que uma espécie de navegador. Hoje em dia, já quase não existe mais diferença entre site e aplicativo, o primeiro está em declínio.
+Outra diferença terminológica que está sumindo é entre programa/software e aplicativo
+
+E-commerce: ""e"", assim como "e-mail", significa "eletronic", ou seja, e-commerce significa comércio eletrônico. Costuma ser um site de compra e venda com sistema de pagamento.
+O sistema de pagamento pode ser exterior ao site.
+
+Exercício final
+
+Boleto só existe no Brasil. Verdade ? Será que algum outro país usa ?
+
+Débito é uma invencão brasileira. Será ?
+
+Os sites hoje em dia usam mais sistemas próprios de pagamento terceirizados ?
+
+Faça uma busca quantitativa no Google, veja qual mais aparece: site, aplicativo ou programa(de computador).
+
+
+
+
+
+
+
+
+
+

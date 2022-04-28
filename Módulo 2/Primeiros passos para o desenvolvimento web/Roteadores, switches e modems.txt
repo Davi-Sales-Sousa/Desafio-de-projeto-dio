@@ -1,0 +1,26 @@
+Roteadores, switches e modems
+
+- Modem (Modulator-demodulator): É o hardware que converte dados em um formato que possa ser transmitido de um computador para outro e lido por outro.
+
+- Roteador: Distribui internet para um ou mais dispositivos de uma rede, pode fazer a comunicação entre redes.
+
+- Switch: Distribui para um ou mais dispositivos de uma rede os dados que chegam de forma correta. Criado para ser "inteligente"
+
+==================================Exercício final===================================
+
+O Gmail costuma usar portas próprias, que não as padrões de SMTP e POP3. Tente descobrir quais são.
+
+O programador que trabalha com a internet costuma usar bancos de dados, como o MySQL,e, claro, servidor web, como o Apache. Que tal você se adiantar e já descobrir quais são as portas usadas por estes sistemas ?
+
+
+
+
+
+
+
+
+
+
+
+
+

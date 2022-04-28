@@ -1,0 +1,17 @@
+TCP/IP e UDP o que são ?
+
+TCP - Transmission Control Protocol: Protocolo de Controle de Transmissão.
+Os dados que são transmitidos entres os computadores precisam de protocolos contendo indicando o tipo de dado, o nome dele, para qual a finalidade e entre outras coisas, ou seja, este serve para discriminar os dados.
+
+O protocoloco IP funciona através de 4 camadas: 
+
+1. Camada física(placa de rede) 
+2. Rede(IP)
+3. Transporte(TCP, UDP)
+4. Aplicações(FTP,SMTP,HTTP)
+===========================================================================================
+TCP x UDP Comparação
+
+- UCP: Mais rápido, não confiável, transmissão de dados sem importância se eles chegaração ao destino ou sobre quem vai pegar os dados. É muito usado em livestream.
+
+-TCP: Voltado à conexão. Integridade, ordem, integridade e ordem do envio de dados.

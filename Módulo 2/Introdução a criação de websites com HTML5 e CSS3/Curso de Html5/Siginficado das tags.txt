@@ -1,0 +1,13 @@
+Significado das Tags
+
+<section> - representa uma seção genérica de conteúdo, como uma lista de artigos
+
+<header> - pode representar o cabeçalho da página ou de partes da página
+
+<article> - representa um conteúdo relevante na página, por exemplo, o artigo de um blog
+
+<aside> - representa um conteúdo relacionado com o conteúdo principal da página
+
+<footer> - pode ser o rodapé da página ou de parte da página
+
+<h1> - <h6> - estes representam a ordem de importância 

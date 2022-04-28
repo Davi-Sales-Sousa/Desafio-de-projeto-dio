@@ -1,0 +1,26 @@
+Backbone(Espinha dorsal) - Normalmente são grandes estruturas que têm a finalidade de gerenciar o envio de pacote e a comunicação entre vários computadores. Existem poucas delas espalhadas pelo o mundo.
+
+Provedor de acesso - Costumam ser as empresas telefonicas que provém o acesso à internet para o usuário desde que o mesmo faça a contratação dos serviços dela. Essas empresas pagam para ter acesso ao sinal de internet dos backbones e repassam esse sinal para o usuário final. Normalmente essas empresa oferecem vários tipos de serviços relacionados a forma como o usuário terá acesso à internet. Destas várias formas temos:
+
+- Dial-up
+- ADSL
+- Fibra Ótica
+- Rádio
+- Satélite
+- Móvel
+- P2P
+
+Caminho que a internet faz até chegar no usuário:
+
+Primeiramente o usuário digita a URL do site, esta URL é traduzida pelo DNS e após é gerado o número de IP do site.
+
+Exercício:
+
+Use o terminal de comandos para descobrir o endereço de sites famosos
+
+No Windows:
+
+1. Aperte as teclas (windows) + R
+2. Digite cmd e aperte enter
+3. Na tela preta que aparecer
+4. digite ping <site>

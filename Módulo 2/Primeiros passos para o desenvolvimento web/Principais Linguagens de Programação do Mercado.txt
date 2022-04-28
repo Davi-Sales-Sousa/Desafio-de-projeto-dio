@@ -1,0 +1,3 @@
+Principais Linguagens de Programação do Mercado
+
+HTML, CSS, JavaScript(jQuery, AJAX, diversas libs), PHP, .NET, ASP, Java, Ruby(on Rails), Python, Perl, C/C++/C#

@@ -1,0 +1,20 @@
+Textos e Links
+
+<h1> Título da página </h1>
+<h2> Título da seção </h2>
+<h3> Título de artigo </h3>
+
+<p> Conteúdo do artigo. </p> - este elemento significa parágrafo e nele pode-se adicionar texto, vídeos, fotos, código, etc...
+
+Tags para links
+
+<a> Link </a> - este elemento representa uma âncora. Como ele podemos adicionar links à nossa página.
+
+Alguns atributos:
+
+<a href="www.meusite.com">Site</a> - href representa o hiperlink para onde a âncora aponta. Também pode apontar para e-mails e telefones.
+
+<a href="mailto:meuemail@gmail.com" > E-mail </a> modelo para e-mail.
+<a href="tel: 33990123" > Telefone </a> modelo para telefone
+
+<a target="_blank"> Link </a> - este indica como o link vai ser aberto, _blank indica que o link deve ser aberto numa nova guia.

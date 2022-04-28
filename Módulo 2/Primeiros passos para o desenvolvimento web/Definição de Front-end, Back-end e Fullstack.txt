@@ -1,0 +1,17 @@
+Front-end
+
+O Front-end está muito relacionado com a interface gráfica do projeto. Ou seja, é onde se desenvolve a aplicação com a qual o usuário irá interagir diretamente, seja em softwares, sites, aplicativos, etc. Portanto, é essencial que o desenvolvedor tenha uma preocupação com a experiência do usuário.
+
+Dev front-end é um termo muito utilizado para identificar profissionais que se especializaram especificamente nessa área. Além disso, apesar de envolver a interface do projeto, o programador front-end não é formado em design. A diferença entre os dois é que o desenvolvedor não desenha visualmente a interface.
+
+Na verdade, no desenvolvimento front-end, o profissional irá mexer com o código em si, projetando com quais ferramentas o usuário irá interagir. Por esse motivo, é importante ter essa diferença em mente quando falamos sobre o assunto.
+
+Back-end
+
+Back End, como o próprio nome sugere, vem da ideia do que tem por trás de uma aplicação. Pode ficar meio abstrato em um primeiro momento, mas pense que para conseguir usar o Facebook no dia a dia, os dados do seu perfil, amigos e publicações precisam estar salvos em algum lugar, sendo esse lugar um banco de dados e processados a partir de lá. Não basta apenas o front-end em HTML e CSS! O Back End trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo.
+
+É comum desenvolvedores Back End trabalharem com ferramentas de linha de comando, sites (deixando o HTML dinâmico), análise de dados (embora isso puxe mais o que um Data Scientist faz). Tudo isso pode ser feito com uma série de linguagens diferentes como: PHP, Ruby, Java, Clojure, C#.
+
+Full Stack
+
+O desenvolvedor full stack é o profissional que tem um perfil mais amplo, podendo atuar tanto em projetos de Front-End, quanto em projetos de Back-End. Front-End são projetos de desenvolvimento de interfaces gráficas que são exibidas para os usuários, ou seja, tudo que a pessoa vê enquanto está navegando em um site
